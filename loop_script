@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "enter name"
+read a
+
+for i in {1..10};do
+echo $a
+
+done
